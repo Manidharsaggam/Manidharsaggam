@@ -7,16 +7,6 @@
   
 
 - 🔭 I’m currently taking training Python full stack developer   
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
--   
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
