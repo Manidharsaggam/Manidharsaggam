@@ -1,69 +1,87 @@
-## 👋 Hi there, I'm Manidhar Saggam
+<h1 align="center">Hi 👋, I'm Manidhar Saggam</h1>
+<h3 align="center">Passionate Python Full Stack Developer | Lifelong Learner | India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manidharsaggam&label=Profile%20views&color=0e75b6&style=flat" alt="manidharsaggam" />
+</p>
 
 ---
 
-## 👀 About Me
+### 🚀 About Me
 
-I'm a passionate **Python Full Stack Developer** with strong expertise in **Django, React, and databases**. I have a growing interest in **data analytics** and love turning complex problems into simple, beautiful, and intuitive solutions. Whether you're looking for a collaborator, full-time contributor, or freelancer, I'm here to bring value to your projects!
-
----
-
-## 🌱 Currently Learning
-
-I’m committed to enhancing my skills and staying on top of industry trends. Currently, I'm exploring:
-
-- **Data Analytics**: Leveraging tools like Pandas and PyTorch to extract insights from data.
-- **Advanced Django**: Diving deeper into backend development with optimized, scalable Django architecture.
-- **React & JavaScript**: Building dynamic user interfaces and improving frontend performance.
-- **PostgreSQL & MySQL**: Strengthening my database skills for efficient and secure data handling.
+- 🔭 I’m currently diving into **Data Analytics** and enhancing my full stack development skills.  
+- 💡 I enjoy building web applications that solve real-world problems.  
+- 💬 Ask me about **Web Development, Databases, and Python**.  
+- ⚡ Fun fact: I love to explore new technologies and frameworks to stay updated in the dev world!
 
 ---
 
-## 💞️ Services & Collaboration
+### 🌐 Connect with Me
 
-I offer a variety of services for both freelance and full-time roles:
-
-- **Full Stack Web Development**: Building responsive and robust web apps using Django + React.
-- **Database Design & Management**: Expertise in relational databases like PostgreSQL and MySQL.
-- **Data Analytics**: Analyzing and visualizing data for actionable insights.
-- **Cloud & Hosting**: Experience with Azure and website management.
-
-If you're looking for a developer to collaborate on impactful solutions, let’s connect!
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages:**  
-Python • JavaScript • HTML • CSS • TypeScript (basic)
-
-**Frontend:**  
-ReactJS • Bootstrap • JavaScript ES6+ • Responsive Web Design
-
-**Backend & Frameworks:**  
-Django • Node.js • Express.js
-
-**Databases:**  
-MySQL • PostgreSQL • MongoDB
-
-**Tools & Platforms:**  
-Git • GitHub • Azure • cPanel • Visual Studio Code
-
-**Data & AI:**  
-Pandas • PyTorch (basic) • NumPy
-
-**Other:**  
-Photoshop • REST APIs • Postman
+<p align="left">
+  <a href="https://linkedin.com/in/manidhar-saggam" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/manidhar017" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/manidhar412" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📫 How to Reach Me
+### 🛠️ Tech Stack
 
-You can get in touch with me through:
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 
-- [LinkedIn](https://linkedin.com/in/manidhar-saggam)
-- [HackerRank](https://www.hackerrank.com/manidhar017)
-- [LeetCode](https://www.leetcode.com/manidhar412)
-- Email: **[youremail@example.com]** _(replace with your actual email)_
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 
-Feel free to reach out for collaboration, freelance opportunities, or just to talk tech. Let’s build something great together!
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+
+  <!-- Data Science -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=default" alt="Manidhar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manidharsaggam&theme=default" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidharsaggam&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect with me on LinkedIn or explore my repositories.*  
