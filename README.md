@@ -32,6 +32,31 @@ If you're looking for a developer to collaborate on impactful solutions, let’s
 
 ---
 
+## 🛠️ Skills & Technologies
+
+**Languages:**  
+Python • JavaScript • HTML • CSS • TypeScript (basic)
+
+**Frontend:**  
+ReactJS • Bootstrap • JavaScript ES6+ • Responsive Web Design
+
+**Backend & Frameworks:**  
+Django • Node.js • Express.js
+
+**Databases:**  
+MySQL • PostgreSQL • MongoDB
+
+**Tools & Platforms:**  
+Git • GitHub • Azure • cPanel • Visual Studio Code
+
+**Data & AI:**  
+Pandas • PyTorch (basic) • NumPy
+
+**Other:**  
+Photoshop • REST APIs • Postman
+
+---
+
 ## 📫 How to Reach Me
 
 You can get in touch with me through:
