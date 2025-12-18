@@ -104,7 +104,7 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 ## 🚧 Featured Projects
 
-<table width="100%">
+<table width="100wh">
 <tr>
 
 <td width="35%" valign="top">
