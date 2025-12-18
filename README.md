@@ -58,74 +58,68 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 </p>
 
 ---
-
 ## 🚧 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🔹 Full Stack Web Application
-🚀 **Django + React | PostgreSQL**
+### 🔹 Full Stack Web App
+🚀 **Django + React**
 
-- User authentication & authorization  
+- Authentication & authorization  
 - REST APIs & CRUD operations  
-- Role-based access & scalable backend  
+- PostgreSQL integration  
 
-🛠️ **Tech Stack:**  
-`Python` `Django` `React` `PostgreSQL` `REST API`
+🛠️ **Tech:**  
+`Python` `Django` `React` `PostgreSQL`
 
-🔗 **Repository:**  
-👉 [View Project](REPLACE_WITH_REPO_LINK)
+🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
 
 </td>
-<td width="50%">
+
+<td width="33%">
 
 ### 🔹 Data Analytics Project
-📊 **Python | Pandas | Visualization**
+📊 **Python | Pandas**
 
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Insight generation from datasets  
+- Data cleaning & EDA  
+- Visualization & insights  
+- Real-world datasets  
 
-🛠️ **Tech Stack:**  
+🛠️ **Tech:**  
 `Python` `Pandas` `NumPy` `Matplotlib`
 
-🔗 **Repository:**  
-👉 [View Project](REPLACE_WITH_REPO_LINK)
+🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### 🔹 REST API Backend
 ⚙️ **Django REST Framework**
 
 - JWT authentication  
-- Modular & scalable architecture  
-- API testing & documentation  
+- Modular API design  
+- Secure backend  
 
-🛠️ **Tech Stack:**  
-`Django REST Framework` `PostgreSQL` `JWT`
+🛠️ **Tech:**  
+`DRF` `PostgreSQL` `JWT`
 
-🔗 **Repository:**  
-👉 [View Project](REPLACE_WITH_REPO_LINK)
+🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
 
 </td>
-<td width="50%">
+</tr>
+</table>
 
-### 🔹 Problem Solving & DSA
-🧠 **Python | Algorithms**
+---
 
-- 300+ problems solved  
-- Strong logic & optimization skills  
+### 🧠 Problem Solving & DSA
 
-🛠️ **Platforms:**  
-`LeetCode` `HackerRank`
+- ✅ 300+ problems solved  
+- ✅ Strong in Python & Algorithms  
 
-🔗 **Profiles:**  
+🔗 Profiles:  
 👉 [LeetCode](https://leetcode.com/manidhar412)  
 👉 [HackerRank](https://www.hackerrank.com/manidhar017)
 
@@ -156,12 +150,15 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=github" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manidharsaggam&theme=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidharsaggam&layout=compact&theme=github" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manidharsaggam" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidharsaggam&layout=compact" />
 </p>
 
 ---
