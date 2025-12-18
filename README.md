@@ -22,48 +22,40 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 ---
 
+
 ## 🧠 Skills & Technologies
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="30%" valign="top">
+<td width="32%" valign="top" align="center">
 
 ### 👨‍💻 Programming & Web
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 
 </td>
 
-<td width="5%"></td> <!-- GAP -->
+<td width="2%"></td>
 
-<td width="30%" valign="top">
+<td width="32%" valign="top" align="center">
 
 ### ⚙️ Frameworks & Backend
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</p>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
 
 </td>
 
-<td width="5%"></td> <!-- GAP -->
+<td width="2%"></td>
 
-<td width="30%" valign="top">
+<td width="32%" valign="top" align="center">
 
 ### 🗄️ Databases
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 
 </td>
 
@@ -72,64 +64,56 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="30%" valign="top">
+<td width="32%" valign="top" align="center">
 
 ### 📊 Data Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>
 
 </td>
 
-<td width="5%"></td> <!-- GAP -->
+<td width="2%"></td>
 
-<td width="30%" valign="top">
+<td width="32%" valign="top" align="center">
 
-### ☁️ Cloud & Platforms
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-</p>
+### ☁️ Cloud
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 
 </td>
 
-<td width="5%"></td> <!-- GAP -->
+<td width="2%"></td>
 
-<td width="30%" valign="top">
+<td width="32%" valign="top" align="center">
 
 ### 🧰 Tools & Version Control
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
 
 </td>
 
 </tr>
 </table>
+
 ---
 
 ## 🚧 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="25.3%" valign="top">
+<td width="32%" valign="top">
 
 ### 🔹 Full Stack Web App  
 🚀 **Django + React**
 
 - Auth & role-based access  
-- REST APIs & CRUD operations  
+- REST APIs & CRUD  
 - PostgreSQL backend  
 
 🛠️ **Tech:**  
@@ -139,15 +123,15 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="10%"></td> <!-- GAP -->
+<td width="2%"></td>
 
-<td width="27.3%" valign="top">
+<td width="32%" valign="top">
 
 ### 🔹 Data Analytics Project  
 📊 **Python | Pandas**
 
 - Data cleaning & EDA  
-- Insightful visualizations  
+- Data visualization  
 - Real-world datasets  
 
 🛠️ **Tech:**  
@@ -157,15 +141,15 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="10%"></td> <!-- GAP -->
+<td width="2%"></td>
 
-<td width="27.3%" valign="top">
+<td width="32%" valign="top">
 
 ### 🔹 REST API Backend  
 ⚙️ **Django REST Framework**
 
 - JWT authentication  
-- Secure & scalable APIs  
+- Secure APIs  
 - Modular architecture  
 
 🛠️ **Tech:**  
@@ -177,6 +161,7 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </tr>
 </table>
+
 
 ---
 
