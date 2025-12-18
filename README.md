@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I’m a **Python Full Stack Developer** who enjoys building scalable web applications and working with data to extract meaningful insights.
+I’m a **Python Full Stack Developer** with a strong interest in **Data Analytics**, focused on building scalable web applications and extracting insights from data.
 
 - 💻 Strong in **Backend Development, APIs & Databases**
 - 📊 Actively learning **Data Analytics & Data Science**
@@ -22,39 +22,43 @@ I’m a **Python Full Stack Developer** who enjoys building scalable web applica
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧠 Skills & Technologies
 
-### 👨‍💻 Programming Languages
-<p>
+### 👨‍💻 Programming & Web
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
-<p>
+### ⚙️ Frameworks & Backend
+<p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
 </p>
 
 ### 🗄️ Databases
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
 </p>
 
-### 📊 Data & Analytics
-<p>
+### 📊 Data Analytics
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>
 </p>
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+### ☁️ Cloud & Dev Tools
+<p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
 </p>
 
 ---
@@ -63,13 +67,14 @@ I’m a **Python Full Stack Developer** who enjoys building scalable web applica
 
 <table>
 <tr>
-<td width="25%">
+
+<td width="33%">
 
 ### 🔹 Full Stack Web App  
 🚀 **Django + React**
 
 - Auth & role-based access  
-- REST APIs & CRUD  
+- REST APIs & CRUD operations  
 - PostgreSQL backend  
 
 🛠️ **Tech:**  
@@ -79,7 +84,7 @@ I’m a **Python Full Stack Developer** who enjoys building scalable web applica
 
 </td>
 
-<td width="25%">
+<td width="33%">
 
 ### 🔹 Data Analytics Project  
 📊 **Python | Pandas**
@@ -89,13 +94,13 @@ I’m a **Python Full Stack Developer** who enjoys building scalable web applica
 - Real-world datasets  
 
 🛠️ **Tech:**  
-`Python` `Pandas` `NumPy` `Matplotlib`
+`Python` `Pandas` `NumPy` `Power BI`
 
 🔗 [View Project](REPLACE_WITH_REPO_LINK)
 
 </td>
 
-<td width="25%">
+<td width="33%">
 
 ### 🔹 REST API Backend  
 ⚙️ **Django REST Framework**
@@ -111,22 +116,11 @@ I’m a **Python Full Stack Developer** who enjoys building scalable web applica
 
 </td>
 
-<td width="25%">
-
-### 🧠 Problem Solving & DSA
-
-- 300+ problems solved  
-- Strong in Python & Algorithms  
-
-🔗 Profiles:  
-[LeetCode](https://leetcode.com/manidhar412)  
-[HackerRank](https://www.hackerrank.com/manidhar017)
-
-</td>
 </tr>
 </table>
 
 ---
+
 ## 🧠 Coding Profiles & Problem Solving
 
 <p align="center">
@@ -136,21 +130,11 @@ I’m a **Python Full Stack Developer** who enjoys building scalable web applica
 - 🧠 **300+ problems solved** across LeetCode & HackerRank  
 - ⭐ Strong in **Python, Data Structures & Algorithms**
 
-<p align="center">
-  <a href="https://www.hackerrank.com/manidhar017" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/manidhar-saggam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/manidhar-saggam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Manidhar%20Saggam-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
