@@ -2,9 +2,9 @@
 <h3 align="center">Python Full Stack Developer | Data Analytics Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manidharsaggam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=manidharsaggam&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
   <a href="https://linkedin.com/in/manidhar-saggam" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-I am a **Python Full Stack Developer** passionate about building scalable web applications and data-driven solutions.
+I’m a **Python Full Stack Developer** who enjoys building scalable web applications and working with data to extract meaningful insights.
 
-- 💻 Strong experience in **Backend Development, APIs & Databases**
-- 📊 Currently learning **Data Analytics & Data Science**
-- 🧠 Interested in clean code, system design & optimization
-- 🤝 Open to **Full-Time / Internship / Freelance** roles  
+- 💻 Strong in **Backend Development, APIs & Databases**
+- 📊 Actively learning **Data Analytics & Data Science**
+- 🧠 Passionate about clean architecture & optimized code
+- 🤝 Open to **Full-Time / Internship / Freelance** opportunities  
 - 📩 *Resume available upon request*
 
 ---
@@ -58,68 +58,69 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 </p>
 
 ---
+
 ## 🚧 Featured Projects
 
 <table>
 <tr>
 <td width="25%">
 
-### 🔹 Full Stack Web App
+### 🔹 Full Stack Web App  
 🚀 **Django + React**
 
-- Authentication & authorization  
-- REST APIs & CRUD operations  
-- PostgreSQL integration  
+- Auth & role-based access  
+- REST APIs & CRUD  
+- PostgreSQL backend  
 
 🛠️ **Tech:**  
 `Python` `Django` `React` `PostgreSQL`
 
-🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
+🔗 [View Project](REPLACE_WITH_REPO_LINK)
 
 </td>
 
 <td width="25%">
 
-### 🔹 Data Analytics Project
+### 🔹 Data Analytics Project  
 📊 **Python | Pandas**
 
 - Data cleaning & EDA  
-- Visualization & insights  
+- Insightful visualizations  
 - Real-world datasets  
 
 🛠️ **Tech:**  
 `Python` `Pandas` `NumPy` `Matplotlib`
 
-🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
+🔗 [View Project](REPLACE_WITH_REPO_LINK)
 
 </td>
 
 <td width="25%">
 
-### 🔹 REST API Backend
+### 🔹 REST API Backend  
 ⚙️ **Django REST Framework**
 
 - JWT authentication  
-- Modular API design  
-- Secure backend  
+- Secure & scalable APIs  
+- Modular architecture  
 
 🛠️ **Tech:**  
 `DRF` `PostgreSQL` `JWT`
 
-🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
+🔗 [View Project](REPLACE_WITH_REPO_LINK)
 
 </td>
 
 <td width="25%">
-  
+
 ### 🧠 Problem Solving & DSA
 
-- ✅ 300+ problems solved  
-- ✅ Strong in Python & Algorithms  
+- 300+ problems solved  
+- Strong in Python & Algorithms  
 
 🔗 Profiles:  
-👉 [LeetCode](https://leetcode.com/manidhar412)  
-👉 [HackerRank](https://www.hackerrank.com/manidhar017)
+[LeetCode](https://leetcode.com/manidhar412)  
+[HackerRank](https://www.hackerrank.com/manidhar017)
 
 </td>
 </tr>
@@ -131,28 +132,25 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 <p align="left">
   <a href="https://linkedin.com/in/manidhar-saggam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Manidhar%20Saggam-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Manidhar%20Saggam-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/manidhar017" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/manidhar412" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-📩 **Interested in my profile? Feel free to connect or message me for my resume.**
+📩 **Feel free to connect or message me to request my resume.**
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidharsaggam&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidharsaggam&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -163,4 +161,4 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 ---
 
-⭐️ **If you find my work interesting, drop a star ⭐ or connect with me!**
+⭐️ **If you like my work, consider starring ⭐ a repository or connecting with me!**
