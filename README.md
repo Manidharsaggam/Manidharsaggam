@@ -62,7 +62,7 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 
 ### 🔹 Full Stack Web App
 🚀 **Django + React**
@@ -78,7 +78,7 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 </td>
 
-<td width="33%">
+<td width="25%">
 
 ### 🔹 Data Analytics Project
 📊 **Python | Pandas**
@@ -94,7 +94,7 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 </td>
 
-<td width="33%">
+<td width="25%">
 
 ### 🔹 REST API Backend
 ⚙️ **Django REST Framework**
@@ -110,7 +110,7 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 </td>
 
-<td width="33%">
+<td width="25%">
   
 ### 🧠 Problem Solving & DSA
 
@@ -149,12 +149,6 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=manidharsaggam&theme=default&hide_border=true)
-
 </p>
 
 <p align="center">
