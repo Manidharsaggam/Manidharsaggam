@@ -28,19 +28,18 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 <table width="100%" align="center>
 <tr>
 
-<td width="30%" valign="top" align="center">
+<td width="32%" valign="top" align="center">
 
 ### 👨‍💻 Programming & Web
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-
 </td>
 
-<td width="5%"></td>
+<td width="2%"></td>
 
-<td width="30%" valign="top" align="center">
+<td width="32%" valign="top" align="center">
 
 ### ⚙️ Frameworks & Backend
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
@@ -49,9 +48,9 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="5%"></td>
+<td width="2%"></td>
 
-<td width="30%" valign="top" align="center">
+<td width="32%" valign="top" align="center">
 
 ### 🗄️ Databases
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
