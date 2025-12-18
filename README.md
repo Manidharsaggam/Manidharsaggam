@@ -150,7 +150,7 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 - JWT authentication  
 - Secure APIs  
-- Modular architecture  
+- Modular architecture
 
 🛠️ **Tech:**  
 `DRF` `PostgreSQL` `JWT`
