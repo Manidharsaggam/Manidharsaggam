@@ -108,11 +108,6 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
 
-</td>
-</tr>
-</table>
-
----
 
 ### 🧠 Problem Solving & DSA
 
@@ -154,7 +149,7 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manidharsaggam" />
+  <img src="https://streak-stats.demolab.com?user=manidharsaggam" />
 </p>
 
 <p align="center">
