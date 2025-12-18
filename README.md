@@ -65,10 +65,10 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 ## 🚧 Featured Projects
 
-<table>
+<table cellpadding="30">
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🔹 Full Stack Web App  
 🚀 **Django + React**
@@ -84,7 +84,7 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🔹 Data Analytics Project  
 📊 **Python | Pandas**
@@ -100,7 +100,7 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🔹 REST API Backend  
 ⚙️ **Django REST Framework**
