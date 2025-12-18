@@ -24,48 +24,98 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 ## 🧠 Skills & Technologies
 
+<table>
+<tr>
+
+<td width="30%" valign="top">
+
+### 👨‍💻 Programming & Web
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </p>
+
+</td>
+
+<td width="5%"></td> <!-- GAP -->
+
+<td width="30%" valign="top">
+
+### ⚙️ Frameworks & Backend
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
+
+</td>
+
+<td width="5%"></td> <!-- GAP -->
+
+<td width="30%" valign="top">
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="30%" valign="top">
 
 ### 📊 Data Analytics
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>
 </p>
 
-### ☁️ Cloud & Dev Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
+</td>
+
+<td width="5%"></td> <!-- GAP -->
+
+<td width="30%" valign="top">
+
+### ☁️ Cloud & Platforms
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 </p>
 
+</td>
+
+<td width="5%"></td> <!-- GAP -->
+
+<td width="30%" valign="top">
+
+### 🧰 Tools & Version Control
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+</p>
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🚧 Featured Projects
@@ -73,7 +123,7 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 <table>
 <tr>
 
-<td width="30%" valign="top">
+<td width="25.3%" valign="top">
 
 ### 🔹 Full Stack Web App  
 🚀 **Django + React**
@@ -89,9 +139,9 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="5%"></td> <!-- GAP -->
+<td width="10%"></td> <!-- GAP -->
 
-<td width="30%" valign="top">
+<td width="27.3%" valign="top">
 
 ### 🔹 Data Analytics Project  
 📊 **Python | Pandas**
@@ -107,9 +157,9 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="5%"></td> <!-- GAP -->
+<td width="10%"></td> <!-- GAP -->
 
-<td width="30%" valign="top">
+<td width="27.3%" valign="top">
 
 ### 🔹 REST API Backend  
 ⚙️ **Django REST Framework**
