@@ -127,6 +127,26 @@ I’m a **Python Full Stack Developer** who enjoys building scalable web applica
 </table>
 
 ---
+## 🧠 Coding Profiles & Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/manidhar412?theme=dark&font=Karma" />
+</p>
+
+- 🧠 **300+ problems solved** across LeetCode & HackerRank  
+- ⭐ Strong in **Python, Data Structures & Algorithms**
+
+<p align="center">
+  <a href="https://www.hackerrank.com/manidhar017" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/manidhar-saggam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+---
 
 ## 🌐 Connect With Me
 
