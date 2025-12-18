@@ -25,10 +25,10 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 ## 🧠 Skills & Technologies
 
-<table width="100%" align="center>
+<table width="100%" align="center">
 <tr>
 
-<td width="32%" valign="top" align="center">
+<td width="22%" valign="top" align="center">
 
 ### 👨‍💻 Programming & Web
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -37,9 +37,9 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </td>
 
-<td width="2%"></td>
+<td width="4%"></td>
 
-<td width="32%" valign="top" align="center">
+<td width="22%" valign="top" align="center">
 
 ### ⚙️ Frameworks & Backend
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
@@ -48,13 +48,22 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 </td>
 
-<td width="2%"></td>
+<td width="4%"></td>
 
-<td width="32%" valign="top" align="center">
+<td width="22%" valign="top" align="center">
 
 ### 🗄️ Databases
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="22%" valign="top" align="center">
+
+### ☁️ Cloud
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 
 </td>
 
@@ -63,7 +72,7 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 <br>
 
-<table width="100%" align="center>
+<table width="100%" align="center">
 <tr>
 
 <td width="30%" valign="top" align="center">
@@ -72,15 +81,6 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>
-
-</td>
-
-<td width="5%"></td>
-
-<td width="30%" valign="top" align="center">
-
-### ☁️ Cloud
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
 
 </td>
 
@@ -195,10 +195,21 @@ I’m a **Python Full Stack Developer** with a strong interest in **Data Analyti
 
 ## 📈 GitHub Stats (Dark Theme)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidharsaggam&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+<table width="100%" align="center">
+<tr>
+
+<td width="48%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manidharsaggam&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
