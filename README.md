@@ -108,7 +108,10 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 
 🔗 👉 [View Project](REPLACE_WITH_REPO_LINK)
 
+</td>
 
+<td width="33%">
+  
 ### 🧠 Problem Solving & DSA
 
 - ✅ 300+ problems solved  
@@ -145,11 +148,13 @@ I am a **Python Full Stack Developer** passionate about building scalable web ap
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manidharsaggam&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manidharsaggam" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manidharsaggam&theme=default&hide_border=true)
+
 </p>
 
 <p align="center">
